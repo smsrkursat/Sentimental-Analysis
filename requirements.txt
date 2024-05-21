@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+scikit-learn
+wordcloud
+tkinter
+nltk.download('punkt')
+nltk.download('stopwords')

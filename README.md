@@ -1,2 +1,2 @@
 # Sentimental-Analysis
-Bu proje, bir mağazanın müşteri yorumlarını analiz ederek duygu durumu sınıflandırması yapar. 
+Bu proje, bir mağazanın müşteri yorumlarını analiz ederek duygu durumu sınıflandırması yapar.Python ve popüler kütüphaneler (pandas, scikit-learn, nltk) kullanarak yorumları olumlu, olumsuz ve tarafsız olarak etiketler. Çeşitli makine öğrenmesi modelleri (GaussianNB, MultinomialNB, SVM vb.) ile değerlendirilmiş ve en iyi performans gösteren model seçilmiştir. Proje, yorumların temizlenmesi, vektörleştirilmesi ve analiz edilmesi aşamalarını içerir. Kullanıcı dostu bir GUI ile manuel testler yapılabilir.
